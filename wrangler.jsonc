@@ -12,8 +12,8 @@
     "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "shop-bot",
-      "database_id": "3f72b578-a57d-4262-88f1-58e5bc1b4ba4"
+      "database_name": "bot",
+      "database_id": "d9e15d0c-d404-4a29-bb67-6a9572a1e2a5"
     }
   ]
 }
